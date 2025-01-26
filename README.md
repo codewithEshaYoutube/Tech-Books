@@ -104,7 +104,7 @@ We welcome contributions! If you have any favorite books, articles, tutorials, o
 Help others grow their tech knowledge!
 
 ---
-
+## Last Update: [26/01/2025]
 
 ---
 
